@@ -1,3 +1,2 @@
-print("Hello World!")
-print("Hello Python", end="")
-print("Hello Vscode", end=" ")
+a, b, c = map(int, input().split())
+print(a+b+c)
